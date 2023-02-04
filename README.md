@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sunilregmi233
-- 👀 I’m interested in Machine Learning and Deep Learning also in backend and frontend development using python and vue.js
+- 👀 I’m interested in Machine Learning and Deep Learning also in backend and frontend development using python and vue.js.
 - 🌱 I’m currently learning Deep Learning for NLP
-- 💞️ I’m looking to collaborate on projects that uses deep learning
+- 💞️ I’m looking to collaborate on projects that uses deep learning and NLP.
+- I am also a quasar developer for development of cross-paltform apps.
 - 📫 How to reach me (sunilregmi233@gmail.com)
 
 <!---
